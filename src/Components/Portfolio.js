@@ -1,26 +1,58 @@
 import React, { Component } from 'react';
+import { makeStyles } from '@material-ui/core/styles';
 
-class Portfolio extends Component {
-  render() {
+import Card from '@material-ui/core/Card';
+import CardActionArea from '@material-ui/core/CardActionArea';
+import CardActions from '@material-ui/core/CardActions';
+import CardContent from '@material-ui/core/CardContent';
+import CardMedia from '@material-ui/core/CardMedia';
+import Typography from '@material-ui/core/Typography';
+import Grid from '@material-ui/core/Grid';
+const useStyles = makeStyles({
+  root: {
+    maxWidth: 345,
+  },
+});
 
-    if (this.props.data) {
-      var projects = this.props.data.projects.map(function (projects) {
-        var projectImage = 'images/portfolio/' + projects.image;
+export default function Portfolio(props) { 
+  const classes = useStyles();
+
+    if (props.data) {
+      var projects = props.data.projects.map(projects=> {
+        let projectImage = 'images/portfolio/' + projects.image;
         
         return (
-          <div key={projects.title} className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href={projects.url} title={projects.title}>
-                <img alt={projects.title} src={projectImage} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>{projects.title}</h5>
-                    <p>{projects.category}</p>
-                  </div>
-                </div>
-              </a>
-            </div>
-          </div>
+<Grid item s>
+          <Card className={classes.root}>
+          <CardActionArea>
+            <CardMedia
+              component="img"
+              alt={projects.title}
+              height="140"
+              width="300"
+              image={projectImage}
+              title={projects.title}
+            />
+            <CardContent>
+              <Typography gutterBottom variant="h5" component="h2">
+                {projects.title}
+              </Typography>
+              <Typography variant="body2" color="textSecondary" component="p">
+                {projects.category.length < 70 ? projects.category : projects.category.substring(0,70) +" ..." }
+              </Typography>
+            </CardContent>
+          </CardActionArea>
+          <CardActions>
+          {
+            projects.github!=="" ?   <a href={projects.github} target="_blank" >Github </a>: null
+          }
+            <a href={projects.url} target="_blank" >
+              Live Preview
+            </a>
+          </CardActions>
+        </Card>
+        
+        </Grid>
         )
       })
     }
@@ -28,20 +60,19 @@ class Portfolio extends Component {
     return (
       <section id="portfolio">
 
-        <div className="row">
-
-          <div className="twelve columns collapsed">
-
+      
             <h1>Check Out Some of My Works.</h1>
 
-            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-              {projects}
-            </div>
-          </div>
-        </div>
+            <Grid container spacing={3}>
+             {projects}
+
+            </Grid>
+              
+ 
       </section>
     );
-  }
+  
 }
 
-export default Portfolio;
+
+

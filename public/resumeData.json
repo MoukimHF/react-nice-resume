@@ -1,142 +1,200 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Moukim Hfaiedh",
+    "description":"I am a web development engineer I use react well for the front-end and node Js for the back. This is my portfolio for some of my latest projects",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"I am 22 years old Passionate full-stack Js developer working with diverse technologies such as React +Firebase ,Node js and Mongo  etc... , i have worked on several projects for new start-ups including e-commerce platforms",
+    "contactmessage":"",
+    "email": "moukimhfaid@gmail.com",
+    "phone": "+216 26959313",
+    "github":"https://github.com/MoukimHF",
+    "project":"https://github.com/MoukimHF",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Nabeul Tunisia (actually)",
+      "city":"(Gafsa)",
+      "state":"(Gafsa)",
+      "zip": "(2181)"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/moukim.hfaid",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/HfaiedhMoukim",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/moukimhf/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/moukimhfaidh",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/MoukimHF",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"here are some statistics of my skills",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
+        "school":"Faculty of Economics and Management Nabeul",
+        "icon":"/images/fsegn.PNG",
+        "degree":"IT applied to management",
+        "graduated":"2020",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Team Treehouse",
+        "icon":"/images/treehouse.PNG",
+        "degree":"Full-Stack Javascript",
+        "graduated":"June 2020",
+        "description":"This certifies proficiency in the fundamentals of javascript, node,react,Express and SQL."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Tabaani",
+        "icon":"/images/tabaani.jpg",
+        "title":"CTO ",
+        "years":"2020 - Present",
+        "description":"I am a co-founder and the CTO of Tabaani start-up ."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Comcept Advertising",
+        "icon":"/images/comcept.png",
+        "title":"Junior front-end dev",
+        "years":"june 2020 - Sept 2020",
+        "description":"Responsible for creating and editing exciting websites i've worked a lot with react and next.js "
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
+        "name":"Javascript",
         "level":"80%"
       },
       {
-        "name":"Swift",
+        "name":"React",
+        "level":"75%"
+      },
+      {
+        "name":"Node Js",
+        "level":"55%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"PHP",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
         "level":"50%"
       },
       {
         "name":"JAVA",
-        "level":"80%"
+        "level":"70%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Tabaani - Follow me",
+        "category":"it's a free platform that empower Passionate locals by hosting a private tour or experience in their city .",
+        "image":"tabaani.PNG",
+        "url":"https://reference-clock-288701.web.app/",
+        "github":""
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Soft Vision",
+        "category":"a React website built with Next.js framework",
+        "image":"soft1.png",
+        "url":"https://softvision.moukimhf.vercel.app/",
+        "github":""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"MyBosphorus Hotels SUPPLY SOLUTIONS",
+        "category":"react + redux website using node JS for the backend",
+        "image":"mybosphorus.PNG",
+        "url":"https://mybosphorus.com",
+        "github":""
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"React Gallery App",
+        "category":"React Gallery App",
+        "image":"gallery.PNG",
+        "url":"https://react-gallery-app-pi.vercel.app/",
+        "github":"https://github.com/MoukimHF/React-gallery-app-moukim-treehouseV2"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"React GIF Search",
+        "category":"React GIF Search using Giffy Api",
+        "image":"gif_search.PNG",
+        "url":"https://react-gif-project.moukimhf.now.sh/",
+        "github":"https://github.com/MoukimHF/React-Gif-Project"
+      },
+      {
+        "title":"Phrase Hunter",
+        "category":"a browser-based, word guessing game: Phrase Hunter. fully developed using JS native",
+        "image":"Project4_1.png",
+        "url":"https://moukimhf.github.io/Phrase-Hunter-v2-by-Moukim/index.html",
+        "github":"https://github.com/MoukimHF/Phrase-Hunter-v2-by-Moukim"
+      },
+      {
+        "title":"Rahma #Ched_Darek Stay at home",
+        "category":"(actually offline)A Hackaton project create in 24 hours to find a helper solution on the co-vid19 pandamic ",
+        "image":"Project6_1.png",
+        "url":"",
+        "github":"https://github.com/MoukimHF/Tn-Solvers--chedDarek"
+      },
+      {
+        "title":"Node Js + express library",
+        "category":"Node Js + express library sequelize DB",
+        "image":"nodeJsLibrary.png",
+        "url":"https://library-moukim.herokuapp.com/",
+        "github":"https://github.com/MoukimHF/sql_library_manager-v1-treehouse-bymoukim"
+      },
+      {
+        "title":"Interactive Form",
+        "category":"Js html css interactive form.",
+        "image":"Project3_2.png",
+        "url":"https://moukimhf.github.io/Interactive-Form-TeamTreeHouse-Moukim-hfaidh/",
+        "github":"https://github.com/MoukimHF/Interactive-Form-TeamTreeHouse-Moukim-hfaidh"
+      },
+      {
+        "title":"Pagination & Content Filter",
+        "category":"Long lists don't make for a good user experience on a web page. In this project, we'll enhance the usability of a web page that contains a long list by employing JavaScript to dynamically divide the list into pages. As a bonus challenge, we'll add a search feature to display only the students that match the search criteria.",
+        "image":"Project2_1.png",
+        "url":"https://moukimhf.github.io/Treehouse_Techdegree_FSJS_project_2_-List_Filter_and_Pagination/index.html",
+        "github":"https://github.com/MoukimHF/Treehouse_Techdegree_FSJS_project_2_-List_Filter_and_Pagination"
+      },
+      {
+        "title":"Public API to Create an Employee Directory",
+        "category":"Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that you can access and display on your own web pages. Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
+        "image":"Project5_2.png",
+        "url":"https://moukimhf.github.io/Public_Api-Request-V1_TeamTreeHouse_TD-By-Moukim/",
+        "github":"https://github.com/MoukimHF/Public_Api-Request-V1_TeamTreeHouse_TD-By-Moukim"
+      },
+      {
+        "title":"Random Quote Generator",
+        "category":"Practice your knowledge of basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.",
+        "image":"projet1_main.png",
+        "url":"https://moukimhf.github.io/a_random_quote_generator-v1-by_moukim_hfaidh/",
+        "github":"https://github.com/MoukimHF/a_random_quote_generator-v1-by_moukim_hfaidh"
       }
     ]
   }

@@ -1,11 +1,13 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
-  "homepage":"./",
+  "homepage": "./",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.2",
     "anix": "^0.3.3",
     "jquery": "^3.2.1",
+    "material-ui": "^0.20.2",
     "particles-bg": "^2.3.12",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
