@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Moukim Hfaiedh",
-    "description":"I am a web development engineer I use react well for the front-end and node Js for the back. This is my portfolio for some of my latest projects",
+    "description":"i have the ability to solve problems in a creative approach . I can handle multiple tasks on a daily basis .I am a passionate person with good experience with multiple programming languages and technologies as Java , Javascript Node Js React ... And This is my portfolio for some of my latest projects",
     "image":"profilepic.jpg",
     "bio":"I am 22 years old Passionate full-stack Js developer working with diverse technologies such as React +Firebase ,Node js and Mongo  etc... , i have worked on several projects for new start-ups including e-commerce platforms",
     "contactmessage":"",
@@ -16,7 +16,7 @@
       "zip": "(2181)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"/pdf/Moukim_hfaiedh.pdf",
     "social":[
       {
         "name":"facebook",

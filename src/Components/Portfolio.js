@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 
 import Card from '@material-ui/core/Card';
@@ -18,11 +18,11 @@ export default function Portfolio(props) {
   const classes = useStyles();
 
     if (props.data) {
-      var projects = props.data.projects.map(projects=> {
+      var projects = props.data.projects.map((projects,index)=> {
         let projectImage = 'images/portfolio/' + projects.image;
         
         return (
-<Grid item s>
+<Grid item  key={index}>
           <Card className={classes.root}>
           <CardActionArea>
             <CardMedia
