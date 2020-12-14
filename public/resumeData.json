@@ -133,6 +133,28 @@
         "url":"https://mybosphorus.com",
         "github":""
       },
+
+      {
+        "title":"Java Library desktop application",
+        "category":"Java Library desktop application using JavaFX",
+        "image":"javalibrary.PNG",
+        "url":"",
+        "github":"https://github.com/MoukimHF/JavaFx-Library-backend-frontend-JavaFX-By-moukim-"
+      },
+      {
+        "title":"full stack app with react and a rest api",
+        "category":"full-stack-app-with-react-and-a-rest-api-v1-by-moukim-hfaidh",
+        "image":"fullstack.PNG",
+        "url":"https://full-stack-app-with-react-and-a-rest-api-v1-by-moukim-hfaidh.vercel.app/",
+        "github":"https://github.com/MoukimHF/full_stack_app_with_react_and_a_rest_api-v1-by-moukim-hfaidh"
+      },
+      {
+        "title":"BookWorm app training to use passport for Oauth (facebook,Github)",
+        "category":" use passport for Oauth (facebook,Github) With MongoDb",
+        "image":"bookworm.PNG",
+        "url":"",
+        "github":"https://github.com/MoukimHF/passport-authentification"
+      },
       {
         "title":"React Gallery App",
         "category":"React Gallery App",
@@ -141,11 +163,39 @@
         "github":"https://github.com/MoukimHF/React-gallery-app-moukim-treehouseV2"
       },
       {
+        "title":"Sequelize CRUD NODE JS With Pug",
+        "category":"Sequelize CRUD NODE JS With Pug (articles)",
+        "image":"sequelize.PNG",
+        "url":"https://sequelize-moukim.herokuapp.com/",
+        "github":"https://github.com/MoukimHF/sequelize-moukim-crud-nodejs"
+      },
+      {
         "title":"React GIF Search",
         "category":"React GIF Search using Giffy Api",
         "image":"gif_search.PNG",
         "url":"https://react-gif-project.moukimhf.now.sh/",
         "github":"https://github.com/MoukimHF/React-Gif-Project"
+      },
+      {
+        "title":"Front End Course Directory",
+        "category":"Front End Course Directory using React",
+        "image":"teachers.PNG",
+        "url":"https://coursesbymoukim.netlify.app/",
+        "github":"https://github.com/MoukimHF/course-directory-treehouse-project-moukim"
+      },
+      {
+        "title":"RSVP application",
+        "category":"RSVP application SPA using React",
+        "image":"rsvp.PNG",
+        "url":"https://rsvp-treehouse.vercel.app/",
+        "github":"https://github.com/MoukimHF/rsvp_treehouse"
+      },
+      {
+        "title":"Score Board using React ",
+        "category":"Score Board using React",
+        "image":"score-board.PNG",
+        "url":"https://score-board-mouk.vercel.app/",
+        "github":"https://github.com/MoukimHF/score-board-mouk"
       },
       {
         "title":"Phrase Hunter",
