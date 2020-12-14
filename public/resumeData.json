@@ -200,14 +200,14 @@
       {
         "title":"Phrase Hunter",
         "category":"a browser-based, word guessing game: Phrase Hunter. fully developed using JS native",
-        "image":"Project4_1.PNG",
+        "image":"project4_1.PNG",
         "url":"https://moukimhf.github.io/Phrase-Hunter-v2-by-Moukim/index.html",
         "github":"https://github.com/MoukimHF/Phrase-Hunter-v2-by-Moukim"
       },
       {
         "title":"Rahma #Ched_Darek Stay at home",
         "category":"(actually offline)A Hackaton project create in 24 hours to find a helper solution on the co-vid19 pandamic ",
-        "image":"Project6_1.PNG",
+        "image":"project6_1.PNG",
         "url":"",
         "github":"https://github.com/MoukimHF/Tn-Solvers--chedDarek"
       },
@@ -235,7 +235,7 @@
       {
         "title":"Public API to Create an Employee Directory",
         "category":"Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that you can access and display on your own web pages. Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
-        "image":"Project5_2.PNG",
+        "image":"project5_2.PNG",
         "url":"https://moukimhf.github.io/Public_Api-Request-V1_TeamTreeHouse_TD-By-Moukim/",
         "github":"https://github.com/MoukimHF/Public_Api-Request-V1_TeamTreeHouse_TD-By-Moukim"
       },
