@@ -122,7 +122,7 @@
       {
         "title":"Soft Vision",
         "category":"a React website built with Next.js framework",
-        "image":"soft1.png",
+        "image":"soft1.PNG",
         "url":"https://softvision.moukimhf.vercel.app/",
         "github":""
       },
@@ -200,42 +200,42 @@
       {
         "title":"Phrase Hunter",
         "category":"a browser-based, word guessing game: Phrase Hunter. fully developed using JS native",
-        "image":"Project4_1.png",
+        "image":"Project4_1.PNG",
         "url":"https://moukimhf.github.io/Phrase-Hunter-v2-by-Moukim/index.html",
         "github":"https://github.com/MoukimHF/Phrase-Hunter-v2-by-Moukim"
       },
       {
         "title":"Rahma #Ched_Darek Stay at home",
         "category":"(actually offline)A Hackaton project create in 24 hours to find a helper solution on the co-vid19 pandamic ",
-        "image":"Project6_1.png",
+        "image":"Project6_1.PNG",
         "url":"",
         "github":"https://github.com/MoukimHF/Tn-Solvers--chedDarek"
       },
       {
         "title":"Node Js + express library",
         "category":"Node Js + express library sequelize DB",
-        "image":"nodeJsLibrary.png",
+        "image":"nodeJsLibrary.PNG",
         "url":"https://library-moukim.herokuapp.com/",
         "github":"https://github.com/MoukimHF/sql_library_manager-v1-treehouse-bymoukim"
       },
       {
         "title":"Interactive Form",
         "category":"Js html css interactive form.",
-        "image":"Project3_2.png",
+        "image":"Project3_2.PNG",
         "url":"https://moukimhf.github.io/Interactive-Form-TeamTreeHouse-Moukim-hfaidh/",
         "github":"https://github.com/MoukimHF/Interactive-Form-TeamTreeHouse-Moukim-hfaidh"
       },
       {
         "title":"Pagination & Content Filter",
         "category":"Long lists don't make for a good user experience on a web page. In this project, we'll enhance the usability of a web page that contains a long list by employing JavaScript to dynamically divide the list into pages. As a bonus challenge, we'll add a search feature to display only the students that match the search criteria.",
-        "image":"Project2_1.png",
+        "image":"Project2_1.PNG",
         "url":"https://moukimhf.github.io/Treehouse_Techdegree_FSJS_project_2_-List_Filter_and_Pagination/index.html",
         "github":"https://github.com/MoukimHF/Treehouse_Techdegree_FSJS_project_2_-List_Filter_and_Pagination"
       },
       {
         "title":"Public API to Create an Employee Directory",
         "category":"Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that you can access and display on your own web pages. Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
-        "image":"Project5_2.png",
+        "image":"Project5_2.PNG",
         "url":"https://moukimhf.github.io/Public_Api-Request-V1_TeamTreeHouse_TD-By-Moukim/",
         "github":"https://github.com/MoukimHF/Public_Api-Request-V1_TeamTreeHouse_TD-By-Moukim"
       },
