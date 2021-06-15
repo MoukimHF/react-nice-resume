@@ -46,9 +46,9 @@ export default function Portfolio(props) {
           {
             projects.github!=="" ?   <a href={projects.github} target="_blank" >Github </a>: null
           }
-            <a href={projects.url} target="_blank" >
-              Live Preview
-            </a>
+            {
+            projects.url!=="" ?   <a href={projects.url} target="_blank" > Live Preview </a>: null
+          }
           </CardActions>
         </Card>
         
