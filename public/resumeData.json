@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Moukim hfaid",
+    "name":"Moukim Hfaiedh",
     "description":"i have the ability to solve problems in a creative approach . I can handle multiple tasks on a daily basis .I am a passionate person with good experience with multiple programming languages and technologies as Java , Javascript Node Js React ... And This is my portfolio for some of my latest projects",
     "image":"profilepic.jpg",
     "bio":"I am 22 years old Passionate full-stack Js developer working with diverse technologies such as React +Firebase ,Node js and Mongo  etc... , i have worked on several projects for new start-ups including e-commerce platforms",
@@ -114,9 +114,23 @@
     "projects": [
       {
         "title":"Tabaani - Follow me",
-        "category":"it's a free platform that empower Passionate locals by hosting a private tour or experience in their city .",
+        "category":"it's a platform that empower Passionate locals by hosting a private tour or experience in their city .",
         "image":"tabaani.PNG",
-        "url":"https://reference-clock-288701.web.app/",
+        "url":"https://tabaani.co",
+        "github":""
+      },
+      {
+        "title":"Good Kebab Restaurant",
+        "category":"A restaurant e-commerce website ",
+        "image":"goodkebab.PNG",
+        "url":"https://goodlkebab-912de.web.app/",
+        "github":""
+      },
+      {
+        "title":"VNXK Fashion website",
+        "category":"A Vietnamian Fashion brand website distibuter, built using Next Js a react framework for SSR ",
+        "image":"vnxk.PNG",
+        "url":"https://vnxk.vercel.app/",
         "github":""
       },
       {
@@ -168,6 +182,13 @@
         "image":"sequelize.PNG",
         "url":"https://sequelize-moukim.herokuapp.com/",
         "github":"https://github.com/MoukimHF/sequelize-moukim-crud-nodejs"
+      },
+      {
+        "title":"building a fun and interactive 'Four in a Row' game",
+        "category":"Practicing my Object-oriented javascript skills ",
+        "image":"fourInArow.PNG",
+        "url":"https://moukimhf.github.io/4-In-A-Row-Game-Js-POO/",
+        "github":"https://github.com/MoukimHF/4-In-A-Row-Game-Js-POO"
       },
       {
         "title":"React GIF Search",

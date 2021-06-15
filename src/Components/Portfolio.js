@@ -28,7 +28,7 @@ export default function Portfolio(props) {
             <CardMedia
               component="img"
               alt={projects.title}
-              height="140"
+              height="160"
               width="300"
               image={projectImage}
               title={projects.title}
@@ -38,7 +38,7 @@ export default function Portfolio(props) {
                 {projects.title}
               </Typography>
               <Typography variant="body2" color="textSecondary" component="p">
-                {projects.category.length < 70 ? projects.category : projects.category.substring(0,70) +" ..." }
+                {projects.category.length < 71 ? projects.category : projects.category.substring(0,71) +" ..." }
               </Typography>
             </CardContent>
           </CardActionArea>
