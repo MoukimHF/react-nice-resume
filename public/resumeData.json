@@ -3,7 +3,7 @@
     "name":"Moukim Hfaiedh",
     "description":"i have the ability to solve problems in a creative approach . I can handle multiple tasks on a daily basis .I am a passionate person with good experience with multiple programming languages and technologies as Java , Javascript Node Js React ... And This is my portfolio for some of my latest projects",
     "image":"profilepic.jpg",
-    "bio":"I am 22 years old Passionate full-stack Js developer working with diverse technologies such as React +Firebase ,Node js and Mongo  etc... , i have worked on several projects for new start-ups including e-commerce platforms",
+    "bio":"I am 22 years old, passionate full-stack JS developer working with diverse technologies such as React, Firebase ,Node js and Mongo, PHP (Laravel)  etc. , I have worked on several projects for new start-ups including e-commerce platforms",
     "contactmessage":"",
     "email": "moukimhfaid@gmail.com",
     "phone": "+216 26959313",
@@ -70,6 +70,13 @@
         "title":"CTO ",
         "years":"2020 - Present",
         "description":"I am a co-founder and the CTO of Tabaani start-up ."
+      },
+      {
+        "company":"Tillate",
+        "icon":"/images/tillate.png",
+        "title":"Front-end web developer intern",
+        "years":"January 2020 - Mars 2020",
+        "description":"Front-end React developer."
       },
       {
         "company":"Comcept Advertising",
